@@ -1,11 +1,12 @@
-,Artiste,Vues,Genre,Age,Fortune
-0,Moise Mbiye,400000,Homme,44,400000.0
-1,Bakenda Michel,52220,Homme,33,43000.0
-2,Fally Ipupa,1800000,Homme,41,2000000.0
-3,Petit Fally,6000,Homme,17,1700.0
-4,Ferré Gola,7000,H,43,430000.0
-5,Innos-B,1690000,M,26,1800000.0
-6,Gaz Mawete,209000,Male,27,430000.0
-7,Koffi Olomide,700000,Homme,58,2410000.0
-8,Athoms Mbuma,5000,Homme,41,0.0
-9,Tshala Mwana,1000,Femme,63,630000.0
+,Unnamed: 0,Artiste,Vues,Genre,Age,Fortune
+0,0,Moise Mbiye,400000,Homme,44,400000.0
+1,1,Bakenda Michel,52220,Homme,33,43000.0
+2,2,Fally Ipupa,1800000,Homme,41,2000000.0
+3,3,Petit Fally,6000,Homme,17,1700.0
+4,4,Ferré Gola,7000,H,43,430000.0
+5,5,Innos-B,1690000,M,26,1800000.0
+6,6,Gaz Mawete,209000,Male,27,430000.0
+7,7,Koffi Olomide,700000,Homme,58,2410000.0
+8,8,Athoms Mbuma,5000,Homme,41,0.0
+9,9,Tshala Mwana,1000,Femme,63,630000.0
+10,10,Mike Kalambay,1000,H,0,630000.0
